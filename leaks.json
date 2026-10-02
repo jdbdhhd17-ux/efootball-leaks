@@ -1,1 +1,24 @@
-
+[
+  {
+    "id": "v610-managers",
+    "icon": "🎯",
+    "name": "تحديث v6.1.0 — مدربين جدد",
+    "desc": "أرسين فينجر (Quick Counter 85) وفيسنتي ديل بوسكي (Quick Counter 89).",
+    "rarity": "confirmed",
+    "type": "تحديث",
+    "date": "أكتوبر 2026",
+    "source": "SportsDunia",
+    "sourceUrl": "https://www.sportsdunia.com/esports/efootball-v-6-1-0-update-leaks"
+  },
+  {
+    "id": "chelsea-pack",
+    "icon": "🔵",
+    "name": "بكج Epic Chelsea B",
+    "desc": "هازارد LWF، كوستا CF، كاهيل CB + بكج المدرب كونتي 2016-17.",
+    "rarity": "confirmed",
+    "type": "بكج",
+    "date": "أغسطس 2026",
+    "source": "GameMarket",
+    "sourceUrl": "https://gamemarket.gg/"
+  }
+]
